@@ -10,7 +10,7 @@ const snapshot = document.querySelector('#snapshot')
 const previewImage = document.querySelector('#snapshot img')
 // END DOM BINDING
 
-liff.init({ liffId: "<YOUR-LIFF-ID>" }, () => {
+liff.init({ liffId: 2006422440-E49Rb345 }, () => {
   // Do something with LIFF functions
 })
 
